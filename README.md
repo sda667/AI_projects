@@ -19,7 +19,12 @@ Each project includes code, experiments, results, and a report.
 
 ## Skills Highlighted
 
-**Skills:** Reinforcement Learning (Value Iteration, Q-Learning) • Exploration strategies (ε-greedy, Softmax) • Neural network training (MLP, CNN, ReLU, Softmax, Adam) • Metric tracking (accuracy/loss curves, confusion matrices) • Bayesian inference (enumeration, likelihood design) • Results analysis and visualization.
+- Reinforcement Learning (Value Iteration, Q-Learning).
+- Exploration strategies (ε-greedy, Softmax).
+- Neural network training (MLP, CNN, ReLU, Softmax, Adam).
+- Metric tracking (accuracy/loss curves, confusion matrices).
+- Bayesian inference (enumeration, likelihood design).
+- Results analysis and visualization.
 
 ---
 
